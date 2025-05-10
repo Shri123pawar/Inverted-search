@@ -1,0 +1,8 @@
+ #[0] word is [are]: file count is 2:files/s:file is file1.txt: word count is 1 file is file2.txt: word count is 1 
+ #[7] word is [hi]: file count is 2:files/s:file is file1.txt: word count is 1 file is file2.txt: word count is 1 
+ #[7] word is [how]: file count is 2:files/s:file is file1.txt: word count is 1 file is file2.txt: word count is 1 
+ #[8] word is [is]: file count is 1:files/s:file is file1.txt: word count is 1 
+ #[12] word is [my]: file count is 1:files/s:file is file1.txt: word count is 1 
+ #[13] word is [name]: file count is 1:files/s:file is file1.txt: word count is 1 
+ #[18] word is [sai]: file count is 1:files/s:file is file1.txt: word count is 1 
+ #[24] word is [you]: file count is 2:files/s:file is file1.txt: word count is 1 file is file2.txt: word count is 1 
